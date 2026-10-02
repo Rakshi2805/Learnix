@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="learnix-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#0f172a" />
+  <path d="M50 20 L76 35 L76 65 L50 80 L24 65 L24 35 Z" stroke="url(#learnix-grad)" stroke-width="4" fill="none" stroke-linejoin="round" />
+  <circle cx="50" cy="50" r="10" fill="url(#learnix-grad)" />
+  <path d="M50 20 L50 40 M76 35 L59 45 M76 65 L59 55 M50 80 L50 60 M24 65 L41 55 M24 35 L41 45" stroke="url(#learnix-grad)" stroke-width="2.5" stroke-linecap="round" />
+</svg>
